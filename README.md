@@ -1,12 +1,12 @@
 
-# Aerex Bot Privacy Policy
-*Last Updated: 11/22/2021*
+# Protector Bot Privacy Policy
+*Last Updated: 11/22/2023*
 
 > **⚠️ Privacy Policy Refactor ⚠️**\
 > We have re-worded our data collection sections to make them clearer to the end user. Nothing new has been added and this policy covers the same materials as it did before.
 
 ## Introduction:
-Welcome to Aerex's privacy policy! In this policy, we will go over what data the bot collects, how data is retained in our systems, how we get rid of our data, and how you can request data removal. If you have any questions, please [join our Discord server](https://discord.gg/BYuUvE4) and we'll be glad to help you out.
+Welcome to Protector privacy policy! In this policy, we will go over what data the bot collects, how data is retained in our systems, how we get rid of our data, and how you can request data removal. If you have any questions, please [join our Discord server](https://discord.gg/BYuUvE4) and we'll be glad to help you out.
 
 ## Data Access:
 Before we begin discussing data collection, it's important to note that very few Aerex staff members have access to your data. Only bot administrators and bot owners can view this material and all data we collect is encrypted and protected via forms of authentication. In order for a bot administrator to access your data in particular, they must log into a dedicated data server with an approved username and password, and authenticate themselves with a form of two-factor authentication (2FA). For more sensitive data, this is locked on a physical server (in encrypted form) which requires a 2FA key to access. We regularly purge data as well, which will be covered later in this document.
